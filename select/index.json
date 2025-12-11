@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "色彩",
+  "base_artist": "yama",
+  "createdAt": "2025-12-11T10:25:59.460912Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "色彩 - With ensemble",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_色彩_-_With_ensemble_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "色彩 -Album Ver.-",
+      "artist": "la la larks",
+      "has_synced": false,
+      "path": "select/02_色彩_-Album_Ver.-_la_la_larks.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shikisai (Album Ver.) [色彩]",
+      "artist": "la la larks",
+      "has_synced": false,
+      "path": "select/03_Shikisai_(Album_Ver.)_[色彩]_la_la_larks.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "色彩",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/04_色彩_yama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "色彩",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/05_色彩_yama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "色彩",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/06_色彩_yama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "色彩",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/07_色彩_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "色彩",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/08_色彩_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "色彩",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/09_色彩_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "色彩 - color",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/10_色彩_-_color_yama.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "色彩",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/11_色彩_秦基博.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "色彩",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_色彩_yama.txt"
+    }
+  ]
+}
